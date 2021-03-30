@@ -1,1 +1,1 @@
-import array from "./exportArray";
+import array from "./exportArray.mjs";
